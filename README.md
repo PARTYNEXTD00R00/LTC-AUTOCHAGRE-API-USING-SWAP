@@ -20,7 +20,7 @@ curl -X POST https://urdomain.example/api/v1/ltc/get \
 
 ## ⚠️Before using API
 
-- You must receive api key from changenow.io
+- You need to get an API key from changenow.io
 
 ## ✅ Contact
 
